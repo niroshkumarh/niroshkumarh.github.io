@@ -6,7 +6,7 @@
             // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
             var mapOptions = {
                 // How zoomed in you want the map to start at (always required)
-                zoom: 11,
+                zoom: 16,
                 scrollwheel: false,
 
                 // The latitude and longitude to center the map (always required)
@@ -78,7 +78,7 @@
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(11.077025, 76.989478),
                 map: map,
-                icon: 'img/marker 2.png',
+                icon: 'img/maps2.png',
                 title: 'Kumaraguru'
             });
         }
