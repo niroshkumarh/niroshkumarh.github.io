@@ -476,7 +476,7 @@ ul#nav li.active a {
 -------------------------------*/
 
 .about-content {
-    background: rgba(0, 0, 0, 0) url("img/about_bg.jpg") no-repeat scroll right center;
+    background: rgba(0, 0, 0, 0) url("img/about_bg\ -\ white.jpg") no-repeat scroll right center;
     box-shadow: 0 0 30px #c2c2c2;
     overflow: hidden;
     padding: 100px 15px;
@@ -711,7 +711,7 @@ ul#nav li.active a {
     border: 1px solid #ddd;
     height: 200px;
     margin-bottom: 30px;
-    padding: 80px 16px;
+    padding: 40px 16px;
     text-align: center;
     display: block;
 }
